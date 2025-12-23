@@ -543,3 +543,5 @@ Built with ❤️ using:
 ---
 
 **LeadPilot AI** - Never miss a lead again! 🚀
+<img width="1901" height="934" alt="image" src="https://github.com/user-attachments/assets/60b5d4d2-7c4f-4116-a3fe-9cf1c6e4e1ec" />
+
